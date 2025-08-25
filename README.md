@@ -51,7 +51,7 @@ Follow these steps to get the project up and running on your local machine.
 
     ```bash
     git clone https://github.com/SohamB-42/hand_controlled_volume.git
-    cd hand-gesture-volume-control
+    cd hand_controlled_volume
     ```
 
 2.  **Create and activate a virtual environment (Recommended):**
